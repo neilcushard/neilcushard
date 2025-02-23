@@ -8,7 +8,10 @@
 ## Cyber Security Frameworks
   - [https://attack.mitre.org/](https://attack.mitre.org/)
   - [https://d3fend.mitre.org/](https://d3fend.mitre.org/)
-
+  - [https://www.cisecurity.org/controls](https://www.cisecurity.org/controls)
+  - [https://www.iso.org/standard/27001](https://www.iso.org/standard/27001)
+  - [https://schema.ocsf.io/](https://schema.ocsf.io/)
+  - [https://github.com/correlatedsecurity/SPEED-SIEM-Use-Case-Framework](https://github.com/correlatedsecurity/SPEED-SIEM-Use-Case-Framework)
 
 # Lab / Self-Hosting
   - [https://community-scripts.github.io/ProxmoxVE/scripts?id=docker](https://github.com/community-scripts/ProxmoxVE)

@@ -3,8 +3,23 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+# Reference Material
+## Frameworks
+  - [https://attack.mitre.org/](https://attack.mitre.org/)
+  - [https://d3fend.mitre.org/](https://d3fend.mitre.org/)
+
+
+# Lab / Self-Hosting
+  - [https://community-scripts.github.io/ProxmoxVE/scripts?id=docker](https://github.com/community-scripts/ProxmoxVE)
+
+# CISO / CISO Tools
+  - [https://github.com/intuitem/ciso-assistant-community](https://github.com/community-scripts/ProxmoxVE)
+
+
+
+
+
 
 <!---
 neilcushard/neilcushard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
